@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-banner.png" width="100%" alt="Paulo Ink — Networks, Security and Automation">
+</p>
+
 <div align="center">
 
 # Hi, I'm Paulo 👋
